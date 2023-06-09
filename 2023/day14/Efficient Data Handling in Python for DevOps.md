@@ -4,6 +4,7 @@
 
 In DevOps, Python offers various data types and data structures that are commonly used for efficient data handling and manipulation.
 
+
 # Data Types
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686222228713/668af677-49bc-4a3b-81a9-82d2064059b0.jpeg)
